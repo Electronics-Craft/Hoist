@@ -1,0 +1,1 @@
+Put your remote photo, receiver PCB photo and wiring diagram in this folder.
